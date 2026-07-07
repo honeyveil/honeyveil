@@ -1,138 +1,30 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B0E0E6,50:8A2BE2,100:FF69B4&height=180&section=header&text=turretin's%20Dev%20Hub%20⚙️&fontSize=48&fontAlignY=50&fontColor=fff" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=700&color=8A2BE2&center=true&width=600&lines=Code.+Innovate.+Transform." alt="Typing Animation" />
-</p>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,go,react,nextjs,nodejs,docker,githubactions,linux" height="60"/>
-</div>
-
-<div align="center">
-  <b><i>“The advance of technology is based on making it fit in so that you don't even notice it, so it's part of everyday life.”</i></b>
-</div>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFEA00,33:39FF14,66:FF00CC,100:00FFFF&height=180&section=header&text=honeyveil%27s%20Server%20%F0%9F%96%A7&fontSize=48&fontAlignY=50&fontColor=ffffff" width="100%" />
+<br/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=700&color=FFEA00&center=true&width=600&lines=Plan.+Push.+Perfect." /><br/><br/>
+<img src="https://skillicons.dev/icons?i=azure,py,php,solidity,redis,rabbitmq,nodejs,swift&theme=dark" height="60"/><br/><br/>
+<h3 align="center">❝ <i>Complexity is the enemy of execution.</i> ❞</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFEA00,33:39FF14,66:FF00CC,100:00FFFF&height=100&section=header" width="100%" />
+<p><b>💡 A B O U T &nbsp; M E</b></p><p align="center"><i><b>Hello! I am a generative art and graphics programmer. I utilize WebGL and custom shaders to bring complex mathematical models to life directly in the browser.</b></i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFEA00,33:39FF14,66:FF00CC,100:00FFFF&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFEA00,33:39FF14,66:FF00CC,100:00FFFF&height=100&section=header" width="100%" />
+<p><b>🔥 P R O G R A M M E R &nbsp; A C T I V I T Y</b></p><p><img src="https://img.shields.io/badge/Hardware%20Hacker-FFEA00?style=for-the-badge&logo=arduino&logoColor=000" /> <img src="https://img.shields.io/badge/Data%20Driven-39FF14?style=for-the-badge&logo=postgresql&logoColor=000" /> <img src="https://img.shields.io/badge/Serverless-FF00CC?style=for-the-badge&logo=vercel&logoColor=000" /></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFEA00,33:39FF14,66:FF00CC,100:00FFFF&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFEA00,33:39FF14,66:FF00CC,100:00FFFF&height=100&section=header" width="100%" />
+<p><b>🛸 T E C H &nbsp; A R S E N A L</b></p><br/><p align="center"><img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/SVELTE-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" /></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFEA00,33:39FF14,66:FF00CC,100:00FFFF&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFEA00,33:39FF14,66:FF00CC,100:00FFFF&height=100&section=header" width="100%" />
+<p><b>💎 E X E C U T I V E &nbsp; D A S H B O A R D 💎</b></p><br/>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B0E0E6,50:8A2BE2,100:FF69B4&height=100&section=header" width="100%" />
-</p>
-
----
-
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=honeyveil&show_icons=true&theme=dracula&hide_border=true&title_color=FFEA00&icon_color=FF00CC&text_color=39FF14&border_color=FFEA00&rank_icon=github&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=honeyveil&langs_count=8&layout=compact&theme=dracula&hide_border=true&title_color=39FF14&icon_color=FFEA00&text_color=FF00CC&border_color=39FF14&cache_seconds=86400" height="165" />
+</p><br/>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B0E0E6,50:8A2BE2,100:FF69B4&height=100&section=header" width="100%" />
-</p>
-
-## 💡 About Me
-
-<div align="center">
-  Greetings! I'm <strong>turretin</strong>, a dedicated developer passionate about crafting robust and scalable solutions.<br/>
-  I thrive on learning new technologies and applying them to solve real-world problems.<br/>
-  Let's build innovative projects and contribute to the open-source community!
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B0E0E6,50:8A2BE2,100:FF69B4&height=100&section=footer" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B0E0E6,50:8A2BE2,100:FF69B4&height=100&section=header" width="100%" />
-</p>
-
-## 🔥 Programmer Activity
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Always%20Coding-B0E0E6?style=for-the-badge&logo=visualstudiocode&logoColor=FF69B4" />
-  <img src="https://img.shields.io/badge/Weekly%20Commits-8A2BE2?style=for-the-badge&logo=git&logoColor=B0E0E6" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Active-FF69B4?style=for-the-badge&logo=github&logoColor=8A2BE2" />
-</p>
-
-<p align="center">
-  <i>“The only way to learn a new programming language is by writing programs in it.”</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B0E0E6,50:8A2BE2,100:FF69B4&height=100&section=footer" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B0E0E6,50:8A2BE2,100:FF69B4&height=100&section=header" width="100%" />
-</p>
-
-## 🛸 Tech Arsenal
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-B0E0E6?style=for-the-badge&logo=javascript&logoColor=8A2BE2"/>
-  <img src="https://img.shields.io/badge/-TypeScript-8A2BE2?style=for-the-badge&logo=typescript&logoColor=FF69B4"/>
-  <img src="https://img.shields.io/badge/-Python-FF69B4?style=for-the-badge&logo=python&logoColor=B0E0E6"/>
-  <img src="https://img.shields.io/badge/-Go-B0E0E6?style=for-the-badge&logo=go&logoColor=8A2BE2"/>
-  <img src="https://img.shields.io/badge/-React-8A2BE2?style=for-the-badge&logo=react&logoColor=FF69B4"/>
-  <img src="https://img.shields.io/badge/-Next.js-FF69B4?style=for-the-badge&logo=next.js&logoColor=B0E0E6"/>
-  <img src="https://img.shields.io/badge/-Node.js-B0E0E6?style=for-the-badge&logo=node.js&logoColor=8A2BE2"/>
-  <img src="https://img.shields.io/badge/-Docker-8A2BE2?style=for-the-badge&logo=docker&logoColor=FF69B4"/>
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-FF69B4?style=for-the-badge&logo=github-actions&logoColor=B0E0E6"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B0E0E6,50:8A2BE2,100:FF69B4&height=100&section=footer" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B0E0E6,50:8A2BE2,100:FF69B4&height=100&section=header" width="100%" />
-</p>
-
-## 📊 My GitHub in Numbers
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=turretin&show_icons=true&theme=dracula&hide_border=true&title_color=FF69B4&icon_color=B0E0E6&text_color=8A2BE2&border_color=B0E0E6" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turretin&langs_count=8&layout=compact&theme=dracula&hide_border=true&title_color=8A2BE2&icon_color=FF69B4&text_color=B0E0E6&border_color=8A2BE2" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=turretin&theme=dracula&hide_border=true&border_color=FF69B4" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=turretin&theme=dracula" height="165"/>
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/turretin?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&logo=github&color=B0E0E6&style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B0E0E6,50:8A2BE2,100:FF69B4&height=100&section=footer" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B0E0E6,50:8A2BE2,100:FF69B4&height=80&section=header" width="100%" />
-</p>
-
-## 🏆 My GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app?username=turretin&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false"/>
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B0E0E6,50:8A2BE2,100:FF69B4&height=80&section=footer" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B0E0E6,50:8A2BE2,100:FF69B4&height=150&section=footer&fontColor=fff&text=Happy%20Coding!%20%F0%9F%92%A1&fontSize=30" width="100%" alt="footer"/>
-  <br/>
-  <blockquote>
-    <p><strong>“It's not a bug, it's an undocumented feature.”</strong></p>
-  </blockquote>
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=honeyveil&theme=dracula&hide_border=true&border_color=FFEA00" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=honeyveil&theme=dracula" height="165" />
+</p><br/>
+<img src="https://img.shields.io/github/stars/honeyveil?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&logo=github&color=FFEA00&style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFEA00,33:39FF14,66:FF00CC,100:00FFFF&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFEA00,33:39FF14,66:FF00CC,100:00FFFF&height=80&section=header" width="100%" />
+<p><b>🏆 G I T H U B &nbsp; P R E S T I G E 🏆</b></p><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=honeyveil&bg_color=transparent&color=FFEA00&line=39FF14&point=FF00CC&area=true&hide_border=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFEA00,33:39FF14,66:FF00CC,100:00FFFF&height=80&section=footer" width="100%" /></div>
